@@ -1,4 +1,7 @@
 langchain-text-splitters
+langchain
+langchain-core
 python-docx
 pdfplumber
 reportlab
+tk
