@@ -6,19 +6,12 @@ OPTIONS = {
     'argv_emulation': True,
     'iconfile': 'cat_icon.icns',
     'packages': [
-        'tkinter',
         'langchain_text_splitters',
         'docx',
         'pdfplumber',
         'reportlab',
         'langchain',
-        'json',
-        'os',
-        'sys',
-        'webbrowser',
-        're',
-        'threading',
-        'time'
+        'langchain_core'
     ],
 }
 
