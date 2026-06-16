@@ -1,0 +1,4 @@
+langchain-text-splitters
+python-docx
+pdfplumber
+reportlab
